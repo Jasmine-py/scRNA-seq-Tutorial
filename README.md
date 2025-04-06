@@ -1,14 +1,15 @@
 # scRNA-seq-Tutorial
 
 Introduction to scRNA-seq and Its Applications in Translational Research
+
 Single-cell RNA sequencing (scRNA-seq) is a powerful and emerging technique that allows researchers to examine gene expression at the single-cell level, providing a detailed view of cellular heterogeneity in biological samples. Unlike traditional bulk RNA-seq, which measures the average gene expression across a population of cells, scRNA-seq enables the capture of gene expression profiles for individual cells, revealing variations that may be masked in bulk analyses.
+
 What is scRNA-seq used for?
 scRNA-seq is used to study the complexity and diversity of cell populations within tissues and organs. Its applications include:
 Identifying novel cell types and subpopulations: scRNA-seq can uncover previously unknown cell types or subtypes that are critical in understanding disease mechanisms.
 
 
 Exploring cellular responses to stimuli: By examining how individual cells respond to changes in their environment or treatment, scRNA-seq provides insights into cellular behavior under different conditions.
-
 
 Understanding development and differentiation: scRNA-seq is key in tracing how cells transition from one state to another during development or disease progression.
 
@@ -51,8 +52,6 @@ Uncover molecular signatures that might differentiate these cell types under tre
 
 
 Pinpoint potential biomarkers that could predict which patients are likely to respond to a given treatment.
-
-
 
 
 Cell Composition Analysis and Lineage Tracing
